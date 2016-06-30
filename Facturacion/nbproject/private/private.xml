@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/modulo/productos.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>1</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>20</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/index.jsp</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/WEB-INF/jspf/menu.jspf</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/WEB-INF/jspf/header.jspf</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/js/fact.js</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/modulo/productos.jsp</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/modulo/reporte.jsp</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/modulo/nuevo.jsp</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/src/java/com/dominio/servlet/productoServlet.java</file>
+            <file>file:/C:/Users/Home-01/Documents/NetBeansProjects/Facturacion/web/modulo/principal.jsp</file>
+        </group>
+    </open-files>
+</project-private>

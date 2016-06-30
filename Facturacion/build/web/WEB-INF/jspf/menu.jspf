@@ -1,0 +1,40 @@
+
+
+
+</head>
+<nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="modulo/principal.jsp">Modulo de Facturación</a>
+          </div>
+          <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li ><a href="modulo/principal.jsp">Inicio</a></li>
+              <li class="dropdown">
+                <a href="" class="dropdown-toggle" id="btnproductos" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Productos<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="" id="btn_aproducto">Agregar</a></li>
+                  <li><a href="" id="btn_reporte">reporte</a></li>
+                 </ul>
+              </li>
+               <li><a href="modulo/principal.jsp">mas opciones</a></li>
+             </ul>
+              <div class="text-right">
+                   <c:if test="${empty usuario}">
+                        Sin usuario!
+                    </c:if>
+                    <c:if test="${not empty usuario}">
+                        Bienvenid@: ${usuario}
+                    </c:if> 
+              </div>
+             
+          </div><!--/.nav-collapse -->
+        </div>
+      </nav>
+<span></span>
+

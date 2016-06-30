@@ -1,0 +1,23 @@
+SMAP
+principal_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jspf
+modulo/../WEB-INF/jspf/header.jspf
++ 1 principal.jsp
+modulo/principal.jsp
++ 2 menu.jspf
+modulo/../WEB-INF/jspf/menu.jspf
+*L
+1,19:60
+1#1:79
+1#0,19:80
+1#2,33:99
+33:182,8
+34,2:190
+35:133
+36:209,8
+37:217,3
+2#1,29:136
+*E
